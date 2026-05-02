@@ -1,2 +1,2 @@
-# smart-route-ccc
-Smart Route Planner is a C++ project that compares Greedy and Dynamic Programming approaches to solve a route optimization problem (TSP). It models cities as a graph, finds efficient routes, and highlights the trade-off between fast but suboptimal greedy solutions and optimal DP results.
+https://docs.google.com/document/d/1K1-cdYAa1EVeVLJJouoHp2cNpNapM5dl/edit?usp=drive_link&ouid=108261355950141880395&rtpof=true&sd=true
+report link
